@@ -7,3 +7,6 @@ hyperfine_version: v1.14.0
 
 # renovate: datasource=github-releases depName=rs/curlie
 curlie_version: v1.6.9
+
+# renovate: datasource=github-releases depName=dandavison/delta
+delta_version: 0.13.0
